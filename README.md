@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SATYAPRAGNYA-KAR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SATYAPRAGNYA-KAR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://media.giphy.com/media/Mj0gk1wnekXC0/giphy.gif?cid=790b7611dcu3h48z2x0red3hbatwgtum96ontu4rshhepuuc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
@@ -161,5 +168,22 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SATYAPRAGNYA-KAR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SATYAPRAGNYA-KAR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SATYAPRAGNYA-KAR/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/SATYAPRAGNYA-KAR/SATYAPRAGNYA-KAR/output/snake.svg" alt="Snake animation" />
 
 ###
